@@ -1,0 +1,5 @@
+{
+    "default_plugin_path": "plugins/",
+    "default_ssh_host": "192.168.43.1",
+    "default_ssh_user": "admin"
+}
